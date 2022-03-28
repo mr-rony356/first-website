@@ -1,0 +1,43 @@
+.box{
+    margin:10px 100px 10px 350px;
+    position: absolute;
+    text-transform: uppercase;
+
+}
+body{
+    height:1200px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    position:sticky;
+}
+.note{
+    height: 50px;
+    background-color: rgba(221, 75, 70, 0.945);
+    color: white;
+    
+}
+
+a.navbar-brand{
+    font-style: oblique;
+    font-size: 200%;
+    
+}
+ul li a {
+    font-style: normal;
+    font-weight:900;
+    
+    
+}
+
+
+body{
+    background-image:url('images.jpg') ;
+    background-repeat: no-repeat;
+}
+.line{
+    margin-top: 50px;
+    font-size: 60px;
+}
+.logo{
+    margin-left: 60px;
+}
